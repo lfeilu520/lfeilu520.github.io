@@ -2,7 +2,7 @@ title: Geely
 subtitle: Android Engineer
 description: >- # this means to ignore newlines until "baseurl:"
 
-url: "https://lfeilu520.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "http://blog.lfeilu.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -25,7 +25,7 @@ author: Geely
 author_bio: Hi, My Name is Geely ban. I love to Code and Design. 
 author_email: "lfeilu520@gmail.com"
 author_location: China
-author_website_url: "https://lfeilu520.github.io"
+author_website_url: "http://blog.lfeilu.com"
 
 author_work_experiences: 
             - company_name: Google
